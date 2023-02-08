@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bds_logo.png" alt="BDS" width="100px">
+  <img src="https://github.com/bdsul/.github/blob/main/profile/bds_logo.png" alt="BDS" width="100px">
   <br>
   <h1>BDS Research Group</h1>
 </div>
